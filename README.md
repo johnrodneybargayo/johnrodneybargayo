@@ -4,7 +4,7 @@
   <h1>Hey there, I'm John Rodney 👋</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Software+Engineer+%26+IT+Staff;Full-stack+web+developer;Learning+Cybersecurity+%F0%9F%94%90;Based+in+Cebu%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=WordPress+%26+Plugin+Developer;Custom+themes%2C+blocks+%26+plugins;Software+Engineer+%26+IT+Staff;Learning+Cybersecurity+%F0%9F%94%90;Based+in+Cebu%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing intro" />
   </a>
 
   <br /><br />
@@ -13,6 +13,7 @@
   <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/@YOUR-HANDLE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://profiles.wordpress.org/YOUR-HANDLE/"><img src="https://img.shields.io/badge/WordPress.org-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress.org profile" /></a>
   <img src="https://komarev.com/ghpvc/?username=johnrodneybargayo&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
@@ -20,29 +21,53 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 Working as **IT Staff** and **Software Engineer**
-- 🌐 I build web apps with **Next.js, React, TypeScript and Supabase**, plus custom **WordPress** themes
+- 🧩 **WordPress developer** focused on **custom plugin development** and **custom themes**
+- 🛠 I build plugins with clean, secure PHP: custom post types, admin settings pages, REST API endpoints, shortcodes and Gutenberg blocks
+- 🎨 Block themes with `theme.json`, custom templates and patterns, plus WooCommerce customizations
+- ⚡ I care about performance, security (sanitize, escape, nonces) and the WordPress Coding Standards
+- 💼 Also working as **IT Staff** and **Software Engineer**, with Next.js, React and TypeScript on the side
 - 🔐 Currently leveling up in **Cybersecurity**
 - 🎮 Off the clock: Valorant, Dota 2, series and movies — and a good amount of sleep
 - 📍 Cebu, Philippines
 
 ---
 
+## 🧩 What I Build in WordPress
+
+| Area | What that looks like |
+|---|---|
+| **Custom plugins** | Feature plugins built with OOP and Composer autoloading, settings pages, cron jobs and custom DB tables |
+| **Gutenberg blocks** | Dynamic and static blocks built with `@wordpress/scripts`, block variations and block patterns |
+| **Themes** | Block themes and classic themes, `theme.json`, child themes, ACF-powered layouts |
+| **Integrations** | REST API endpoints, third-party API integrations, WooCommerce hooks and extensions |
+| **Ops** | WP-CLI, migrations, staging → production workflows, speed and security hardening |
+
+---
+
 ## 🛠 Tech Stack
 
-**Languages & Frontend**
+**WordPress & PHP**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" title="WordPress" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="WooCommerce" title="WooCommerce" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="Composer" title="Composer" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery" title="jQuery" />
+</p>
+
+**Frontend**
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React (Gutenberg blocks)" title="React (Gutenberg blocks)" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" title="Redux" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" title="Vue.js" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="Vuetify" title="Vuetify" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="Webpack" title="Webpack" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" title="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" title="Sass" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="Webpack" title="Webpack" />
 </p>
 
 **Backend & Databases**
@@ -52,8 +77,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" title="npm" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" title="Supabase" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
 </p>
 
 **Cloud, DevOps & Systems**
@@ -101,5 +125,5 @@
 ---
 
 <div align="center">
-  <sub>Thanks for stopping by — feel free to reach out! ✌️</sub>
+  <sub>Need a custom WordPress plugin or theme? Feel free to reach out! ✌️</sub>
 </div>
